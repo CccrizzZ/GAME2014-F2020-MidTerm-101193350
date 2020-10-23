@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /////////////////////////////////////////////////
-// Source File Name: PlayerController.cs       //
+// Source File Name: BulletController.cs       //
 // Student Name: Beining Liu                   //
 // Student ID: 101193350                       //
 // Date Last Modified: Oct 22                  //

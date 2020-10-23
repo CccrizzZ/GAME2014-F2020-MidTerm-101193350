@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /////////////////////////////////////////////////
-// Source File Name: PlayerController.cs       //
+// Source File Name: EnemyController.cs       //
 // Student Name: Beining Liu                   //
 // Student ID: 101193350                       //
 // Date Last Modified: Oct 22                  //
-// Program Description: Bullet movement script.//
+// Program Description: enemy movement script.//
 /////////////////////////////////////////////////
 
 //   Revision History:            
